@@ -1,2 +1,2 @@
 def buildNumber = currentBuild.number
-welcome(buildNumber)
+welcome.call(buildNumber)
