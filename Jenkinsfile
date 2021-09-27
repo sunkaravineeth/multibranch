@@ -1,2 +1,6 @@
 @Library('test')_
-welcome()
+welcome(
+  [
+    name: sample
+    ]
+)
