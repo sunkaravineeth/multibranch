@@ -1,6 +1,2 @@
 
-welcome(
-  [
-    name: vineeth  
-  ]
-)
+welcome()
