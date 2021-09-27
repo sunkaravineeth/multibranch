@@ -1,6 +1,3 @@
 @Library('test')_
-welcome(
-  [
-    name: sample
-    ]
-)
+BUILD = currentBuild.getNumber()
+welcome( BUILD )
