@@ -1,2 +1,2 @@
 @Library('test')_
-welcome()
+welcome
